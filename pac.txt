@@ -10,7 +10,8 @@ var rules = [
     [
         [], 
         [
-          "vultr.com"  
+          "vultr.com",
+          "avocode.com"
         ]
     ], 
     [
