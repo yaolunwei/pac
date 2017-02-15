@@ -13,7 +13,10 @@ var rules = [
           "vultr.com",
           "avocode.com",
           "grandstream.com",
-          "owncloud.org"
+          "owncloud.org",
+          "docker.com",
+          "docker.io",
+          "docker.org"
         ]
     ], 
     [
