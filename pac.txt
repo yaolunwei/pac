@@ -12,7 +12,8 @@ var rules = [
         [
           "vultr.com",
           "avocode.com",
-          "grandstream.com"
+          "grandstream.com",
+          "owncloud.org"
         ]
     ], 
     [
