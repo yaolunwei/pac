@@ -16,7 +16,9 @@ var rules = [
           "owncloud.org",
           "docker.com",
           "docker.io",
-          "docker.org"
+          "docker.org",
+          "arduino.cc"
+ 
         ]
     ], 
     [
