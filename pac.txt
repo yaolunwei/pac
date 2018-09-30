@@ -4738,7 +4738,7 @@ var rules = [
             "zyzc9.com", 
             "zzcartoon.com", 
             "zzux.com"
-        ]
+        ] 
     ]
 ];
 
